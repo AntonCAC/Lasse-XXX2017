@@ -1,0 +1,1 @@
+detta är rå text om projektedning. Bara ett exempel. Här kan ni skriva och uppdatera era texter och följa med i revisioner av texten. Git/github hjälpeross att att dels hålla koll på ändringar och tillägg i texten, dels att se av vem och när de är gjorda.
