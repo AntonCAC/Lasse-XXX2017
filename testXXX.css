@@ -5,8 +5,19 @@ body {
 }
 
 a {
+  font-style: italic;
   text-decoration: none;
   color: blue;
+  font-size: 3.0em;
+}
+
+ul {
+  list-style: circle;
+  /* detta är kommentar 1 som inte är stage*/
+}
+
+ol {
+  color: red;
 }
 
 p {
