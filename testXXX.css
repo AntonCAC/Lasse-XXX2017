@@ -1,7 +1,27 @@
 /* this is a css */
+
 body {
-margin: auto;
+  margin: auto;
 }
+
+a {
+  font-style: italic;
+  text-decoration: none;
+  color: blue;
+  font-size: 3.0em;
+}
+
+ul {
+  list-style: circle;
+  /* detta är kommentar 1 som inte är stage*/
+  /* när syns detta på tidslinje*/
+  /* kanske är det bästa att låta elever arbeta med commit BARA i githubdesktop*/
+}
+
+ol {
+  color: red;
+}
+
 p {
   color: red;
 }
