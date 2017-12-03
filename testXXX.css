@@ -1,5 +1,7 @@
 /* this is a css */
-
+body {
+margin: auto;
+}
 p {
   color: red;
 }
