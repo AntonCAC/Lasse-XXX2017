@@ -1,7 +1,14 @@
 /* this is a css */
+
 body {
-margin: auto;
+  margin: auto;
 }
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
 p {
   color: red;
 }
